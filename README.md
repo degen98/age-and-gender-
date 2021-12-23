@@ -46,7 +46,7 @@ the given input image is female or male gender.
 In this work, techniques of PCA algorithm and KNN
 classifier is used. Age synthesis is a developing concept, which needs more
 developers and researchers on it. The basic concept is to predict the image model of
-'''certain person on basis of age which does not even exist'''
+certain person on basis of age which does not even exist
 
 
 
